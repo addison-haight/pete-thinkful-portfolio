@@ -1,2 +1,2 @@
 # pete-thinkful-portfolio
-Sample portfolio for client
+This is a sample portfolio for an artist page.
